@@ -307,3 +307,6 @@ def list_api_keys() -> list:
 
     finally:
         conn.close()
+
+def Thongbao()
+    print("Hello")
