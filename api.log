@@ -443,3 +443,4 @@ Traceback (most recent call last):
     raise TemplateNotFound(
 jinja2.exceptions.TemplateNotFound: 'index.html' not found in search path: '/opt/email_gateway/templates'
 INFO:     71.6.135.131:42714 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.

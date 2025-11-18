@@ -18,3 +18,5 @@
 [RCPT] REJECT: Domain tiscali.it not configured
 [RCPT] Checking: spameri@tiscali.it
 [RCPT] REJECT: Domain tiscali.it not configured
+[RCPT] Checking: spameri@tiscali.it
+[RCPT] REJECT: Domain tiscali.it not configured
