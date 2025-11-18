@@ -1,0 +1,20 @@
+[INFO] Malware scanner module loaded successfully
+
+======================================================================
+  SMTP SERVER WITH SPAM FILTERING
+======================================================================
+  Listening on: 0.0.0.0:25
+  Spam Threshold: 5.0
+  Press Ctrl+C to stop
+======================================================================
+
+('64.62.156.222', 20524) unrecognised: GET
+('64.62.156.222', 20524) unrecognised: HOST:
+('64.62.156.222', 20524) unrecognised: USER-AGENT:
+('64.62.156.222', 20524) unrecognised: ACCEPT:
+('64.62.156.222', 20524) unrecognised: ACCEPT-ENCODING:
+('64.62.156.222', 20524) too many bogus commands
+[RCPT] Checking: spameri@tiscali.it
+[RCPT] REJECT: Domain tiscali.it not configured
+[RCPT] Checking: spameri@tiscali.it
+[RCPT] REJECT: Domain tiscali.it not configured
